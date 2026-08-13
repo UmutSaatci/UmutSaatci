@@ -1,8 +1,6 @@
 # Selam, Ben Umut Saatci! 👋 (Hi, I'm Umut!)
 
-<p align="left">
-  <a href="https://linkedin.com"><img src="https://www.linkedin.com/in/umut-saatci/" alt="LinkedIn"></a>
-</p>
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/umut-saatci/)
 
 ### 🚀 Hakkımda (About Me)
 Modern web teknolojileri ve **WordPress** tabanlı projelerde aktif görev alan bir **Full-Stack Web Geliştiricisiyim**. Frontend tarafında kullanıcı dostu ve modern responsive arayüzler geliştirirken, backend tarafında güvenli, ölçeklenebilir ve sürdürülebilir sistemler mimari ediyorum. Problem çözme becerisi yüksek, takım çalışmasına uyumlu ve sürekli öğrenmeye açık bir geliştirici olarak yenilikçi projelerde değer üretmeyi hedefliyorum.
@@ -11,60 +9,9 @@ Modern web teknolojileri ve **WordPress** tabanlı projelerde aktif görev alan 
 
 ### 💻 Teknolojik Yetkinlikler (Tech Stack)
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![Redux](https://shields.io) ![Node.js](https://shields.io) ![Express](https://shields.io) 
+
+![PHP](https://shields.io) ![WordPress](https://shields.io) ![MongoDB](https://shields.io) ![MySQL](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io)
 
 #### 🛠️ Uzmanlık Alanları (Areas of Expertise)
 * **Frontend:** HTTP Requests (Axios/Fetch), React Router, State Management (Redux), HTML5, CSS3, Responsive Design.
@@ -75,7 +22,6 @@ Modern web teknolojileri ve **WordPress** tabanlı projelerde aktif görev alan 
 
 ### 📊 GitHub Canlı İstatistikleri (GitHub Stats)
 
-<p align="left">
-  <img src="https://vercel.app" alt="Umut's GitHub Stats" height="160" />
-  <img src="https://vercel.app" alt="Top Langs" height="160" />
-</p>
+![Umut's GitHub Stats](https://vercel.app)
+
+![Top Langs](https://vercel.app)
